@@ -2,10 +2,10 @@
     Josephus problem
     
     1 to N numbered players, are sitting in a circle.
-    Starting at person 1, after M passes, the person at Mth
-    pass is eliminated, the circle is reduced, and the game 
-    continues with the person next to the eliminated person. 
-    The last remaining person wins.
+    Starting at player 1, after M passes, the Mth player
+    is eliminated, and the circle is reduced. Continue with 
+    player adjacent to eliminated person. 
+    The last remaining player wins.
 
     Variables
         - N - number of players
